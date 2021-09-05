@@ -1,24 +1,38 @@
-# README
+# PullRequest.Club
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](app/assets/images/home-2019-12-28.png)
 
-Things you may want to cover:
+Pull Request Club is a web application originally written in Ruby using Ruby on Rails platform.
 
-* Ruby version
+Users can sign up with their GitHub accounts, and do two things:
+- Receive monthly assignments, and
+- Let the system assign their repositories to other participants.
 
-* System dependencies
+If you are looking for an open source project to work on, or if you are
+looking for some help for your open source project, Pull Request Club might
+be able to help. Give it a try at
+[PullRequest.Club](https://pullrequest.club).
 
-* Configuration
+# Development
 
-* Database creation
+We are always looking forward to your contributions.
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributing](CONTRIBUTING.md)
 
-* Database initialization
+See the [wiki](https://github.com/kyzn/PRC-rails/wiki) for further development instructions.
 
-* How to run the test suite
+# License
 
-* Services (job queues, cache servers, search engines, etc.)
+MIT. See the [License](LICENSE) file in the repository.
 
-* Deployment instructions
+# Author
 
-* ...
+Kivanc Yazan
+
+# Contributors
+
+- Andrew Grangaard
+- E. Choroba
+- Karen Etheridge
+- Paul Cochrane
+- Thibault Duponchelle
